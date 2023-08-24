@@ -1,0 +1,41 @@
+h1{
+    color: #7a579a;
+    background-color: #fefdcb;
+}
+hr{
+    color: #ffffff;
+}
+
+img{
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-width: Spx;
+}
+
+.main-content{
+    text-align: left;
+}
+
+.menu{
+    text-align: left;
+}
+
+a:link{
+    color: rgb(215, 250, 217);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(134, 43, 226);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active{
+    color: #359;
+}
